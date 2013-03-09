@@ -1,0 +1,13 @@
+{
+
+"name": "StartUp-CRM",
+"description": "Hello CRM on Node.js with MongoDB",
+"version": "0.0.1",
+"private": true,
+"dependencies": {
+
+"mongoose": "3.5.7" 
+
+}
+
+}
