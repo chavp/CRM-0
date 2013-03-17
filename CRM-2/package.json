@@ -1,0 +1,11 @@
+{
+	"name": "CRM-MongoDB-RabbitMQ",
+	"description": "Node.js: ซอฟแวร์ทำงานร่วมกันได้ไรขีดจำกัดด้วย RabbitMQ",
+	"version": "0.0.0",
+	"private": true,
+	"dependencies": {
+		"mongoose": "*",
+		"amqp": "*" ,
+		"node-uuid": "*"
+	}
+}
